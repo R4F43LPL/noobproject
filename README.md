@@ -1,2 +1,2 @@
 # noobproject
-learning html, css
+Create simple webside
